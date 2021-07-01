@@ -4,7 +4,7 @@ Webcam.set({
     Image_format: 'png',
     png_quality: 90,
 
-    constaints: {
+    constraints: {
         facingNodes: "environment"
     }
 
